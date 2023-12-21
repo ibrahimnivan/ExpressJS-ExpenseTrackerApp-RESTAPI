@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "date": "2023-12-19T08:38:08.036Z",
+    "name": "test",
+    "nominal": 1000,
+    "category": "jajan"
+  },
+  {
+    "id": 2,
+    "date": "2023-12-19T08:40:07.462Z",
+    "name": "test",
+    "nominal": 1000,
+    "category": "jajan"
+  },
+  {
+    "id": 3,
+    "date": "2023-12-19T08:40:30.838Z",
+    "name": "test",
+    "nominal": 1000,
+    "category": "jajan"
+  },
+  {
+    "id": 5,
+    "name": "bmw tour",
+    "nominal": 10000,
+    "category": "viechle",
+    "date": "2023-12-21T04:18:43.190Z"
+  },
+  {
+    "id": 6,
+    "date": "2023-12-21T04:43:37.577Z",
+    "name": "ps5",
+    "nominal": 15000,
+    "category": "entertainment"
+  },
+  {
+    "id": 7,
+    "date": "2023-12-21T05:18:38.753Z",
+    "name": "gtaVI",
+    "nominal": 15000,
+    "category": "Entertainment"
+  }
+]
